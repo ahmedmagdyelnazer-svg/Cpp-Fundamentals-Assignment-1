@@ -1,0 +1,18 @@
+C++ FUNDAMENTALS - ASSIGNMENT 1
+PART 1: FIND & FIX THE SYNTAX ERRORS
+
+Question 1:
+cout << "Enter your age: ";
+
+Question 2:
+int score = 100;
+
+Question 3:
+int age = 20;
+
+Question 4:
+int num;
+cin >> num;
+
+Question 5:
+int firstNumber = 10;
